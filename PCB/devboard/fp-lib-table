@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "W25Q64JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/libraries/W25Q64JVSSIQ/footprints.pretty")(options "")(descr ""))
+)
