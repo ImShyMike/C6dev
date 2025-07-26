@@ -50,3 +50,15 @@ Schematicsssss
 - https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf
 
 **Total time spent: 3h**
+
+---
+
+# July 26th pt4: Finishing up the schematic
+
+Should be finished with the schematic will double check everything for errors and start the with the PCB
+
+![Finished schematic](images/image-2.png)
+
+**Total time spent: 2h**
+
+---
