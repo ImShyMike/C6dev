@@ -34,3 +34,19 @@ I ended up choosing the ESP32-C6 for it's low power consumption, speed, relative
 ![Starting schematic](images/image.png)
 
 **Total time spent: 1h**
+
+---
+
+# July 26th pt3: More schematic making :sob:
+
+Tried to actually use net labels propperly and follow best practices while keeping the schematic clean and already have a 5v to 3.3v step down, crystals, flash, usb c, boot/reset buttons and a microSD.
+
+![Schematic looking decent](images/image-1.png)
+
+Schematicsssss
+
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588949628351471616
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881904569356288
+- https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf
+
+**Total time spent: 3h**
