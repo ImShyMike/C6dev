@@ -62,3 +62,25 @@ Should be finished with the schematic will double check everything for errors an
 **Total time spent: 2h**
 
 ---
+
+# July 27th: PCB done (i think)
+
+> KiCad autosave is the best thing ever made by humanity
+
+I thought that i had lost almost 2 hours of work but thankfully autosave saved me (don't ask why i didn't save for 2 hours, i don't know either)
+
+After a lot of pain and suffering and forgetting to place the pullups on the SDIO lines the PCB is mostly finished and now only needs some finishing touches
+
+![Finished PCB](images/image-3.png)
+
+Also fixed some minor issues with the schematic
+
+![Finished schematic](images/image-4.png)
+
+[i love RF i love RF i love RF](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588940948130156544)
+
+<sub>im about 1% confident that the antenna will work</sub>
+
+**Total time spent: 6h**
+
+---
