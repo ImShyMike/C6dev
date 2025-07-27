@@ -84,3 +84,9 @@ Also fixed some minor issues with the schematic
 **Total time spent: 6h**
 
 ---
+
+# July 27th pt2: Polishing
+
+Polishing tiny details on the PCb and adding silkscreen as well as checking prices
+
+**Total time spent: 1h**

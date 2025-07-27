@@ -7,7 +7,7 @@
 	(title_block
 		(title "C6dev")
 		(date "2025-07-26")
-		(rev "1")
+		(rev "3")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x13_Pin"
@@ -13469,7 +13469,7 @@
 				)
 			)
 		)
-		(property "Value" "2uH"
+		(property "Value" "2.2uH"
 			(at 132.08 138.43 90)
 			(effects
 				(font
