@@ -90,3 +90,17 @@ Also fixed some minor issues with the schematic
 Polishing tiny details on the PCb and adding silkscreen as well as checking prices
 
 **Total time spent: 1h**
+
+---
+
+# July 27th pt2: SILKSCREEEEEEN
+
+PCB was looking extremely boring so ofc i had to spend copious amounts of time adding silkscreen art :3
+
+(it's still not done, i need MORE)
+
+![PCB front](images/image-6.png)
+
+![PCB back](images/image-5.png)
+
+**Total time spent: 2h**
