@@ -5,7 +5,7 @@ description: "A tiny and low power dev board for the ESP32-C6"
 created_at: "2025-07-26"
 ---
 
-## Total time: - hours
+## Total time: 19 hours
 
 ---
 
@@ -103,4 +103,30 @@ PCB was looking extremely boring so ofc i had to spend copious amounts of time a
 
 ![PCB back](images/image-5.png)
 
+The back is still quite empty and that will be dealt with later
+
 **Total time spent: 2h**
+
+---
+
+# July 28th: A lot of polish :3
+
+Got all od the missing 3D models to make a cool PCB image and added a bunch of helpful and fun silkscreen stuff
+
+![PCB front](images/image-7.png)
+
+![PCB back](images/image-8.png)
+
+The state of the PCB now :sob:
+
+![PCB](images/image-9.png)
+
+**Total time spent: 2h**
+
+---
+
+# July 28th: README stuffs
+
+Finished the README and BOM and double checked if im missing anything
+
+**Total time spent: 1h**

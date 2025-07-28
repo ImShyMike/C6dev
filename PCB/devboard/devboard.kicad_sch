@@ -8117,7 +8117,7 @@
 		(uuid "600ebcee-923a-4494-a4c3-fa351e0dc3ce")
 	)
 	(label "GPIO16"
-		(at 261.62 96.52 180)
+		(at 261.62 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8227,7 +8227,7 @@
 		(uuid "867f5fd9-62b6-446a-b72a-47737d25204b")
 	)
 	(label "GPIO17"
-		(at 261.62 99.06 180)
+		(at 261.62 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
