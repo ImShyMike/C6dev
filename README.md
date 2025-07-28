@@ -30,10 +30,10 @@ It was quite a lot harder than I expected with all the datasheet searching and l
 
 ---
 
-# 3D Model
+## 3D Model
 
 [STL (renders on GitHub)](PCB/devboard/devboard.stl)
 
 [STEP](PCB/devboard/devboard.stl)
 
-[WRL](PCB/devboard/devboard.wrl)
+[WRL (best)](PCB/devboard/devboard.wrl)
