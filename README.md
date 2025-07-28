@@ -26,7 +26,7 @@ It was quite a lot harder than I expected with all the datasheet searching and l
 
 | Item | Quantity | Price (USD) |
 |:----:|:--------:|:-----------:|
-| PCB  |       1  |      $99.80 |
+| PCB  |       1  |         $77 |
 
 ---
 
