@@ -32,4 +32,5 @@ It was quite a lot harder than I expected with all the datasheet searching and l
 
 # 3D Model
 
-![3D model](PCB/devboard/devboard.stl)
+[STL (renders on GitHub)](PCB/devboard/devboard.stl)
+[STEP](PCB/devboard/devboard.stl)
